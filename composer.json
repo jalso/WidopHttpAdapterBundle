@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "~3|~4",
+        "symfony/framework-bundle": "~4",
         "widop/http-adapter": "1.1.*"
     },
     "require-dev": {
