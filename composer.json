@@ -1,5 +1,5 @@
 {
-    "name": "dominium/http-adapter-bundle",
+    "name": "jalso/http-adapter-bundle",
     "description": "Issue HTTP request.",
     "keywords": [ "request", "http" ],
     "type": "symfony-bundle",
@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "symfony/framework-bundle": "3.*",
+        "symfony/framework-bundle": "~3|~4",
         "widop/http-adapter": "1.1.*"
     },
     "require-dev": {
